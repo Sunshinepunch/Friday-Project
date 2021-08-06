@@ -30,6 +30,20 @@
   border-width: 5px;
 }
 
+.flex-container{
+  display:flex;
+  flex-direction: row;
+}
+
+.flex-left{
+  width:75%;
+  height:100vh;
+}
+
+.flex-right{
+  width:25%;
+}
+
 body{
   background-color: blanchedalmond;
 }
