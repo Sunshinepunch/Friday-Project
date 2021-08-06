@@ -12,6 +12,17 @@
   border-style: solid;
   border-color: black;
   border-width: 5px;
+  border-spacing: 10px;
+}
+
+.card2{
+  padding-top:10px;
+  margin-left: 10px;
+  background-color:lavender;
+  border-style: solid;
+  border-color: black;
+  border-width: 5px;
+  border-spacing: 20px 1rem;
 }
 
 body{
@@ -27,6 +38,7 @@ blockquote{
   font-family:cursive;
   font-size: 12px;
 }
+
 
 .keeptogether{
   white-space: nowrap;
