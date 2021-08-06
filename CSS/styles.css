@@ -24,6 +24,8 @@
   margin-top: 50px;
   padding-top:10px;
   margin-left: 10px;
+  margin-bottom: auto;
+  padding-bottom: 10px;
   background-color:lavender;
   border-style: solid;
   border-color: black;
@@ -38,7 +40,7 @@
 
 .flex-left{
   width:33%;
-  height:15vh;
+  height:auto;
 }
 
 .flex-right{
@@ -49,6 +51,19 @@
   display:inline-block;
   width: 50%
 }
+
+.flex-mid2{
+  padding-top: 25px;
+  display:inline-block;
+  width: 50%
+}
+
+.flex-right2{
+  padding-top: 25px;
+  width:33%;
+}
+
+
 
 body{
   background-color: blanchedalmond;
