@@ -6,6 +6,14 @@
   
 }
 
+.card{
+  margin-left: 10px;
+  background-color:lavender;
+  border-style: solid;
+  border-color: black;
+  border-width: 5px;
+}
+
 body{
   background-color: blanchedalmond;
 }
@@ -15,9 +23,9 @@ img{
   height: 472px;
 }
 
-.gridproj{
-  display:grid
-  grid: template columns 200px 200px 200px;
+blockquote{
+  font-family:cursive;
+  font-size: 12px;
 }
 
 .keeptogether{
@@ -34,8 +42,6 @@ img{
   padding-left: 20px;
 }
 
-.guide{
-  display: inline-flexbox;
-  padding-left: 20px;
+
 
 }
