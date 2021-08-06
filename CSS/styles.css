@@ -1,6 +1,6 @@
 .sidebar{
-  width: 200px;
-  height: 100%;
+  width: 300px;
+  height: auto;
   float: left;
   background-color: khaki;
   
@@ -11,13 +11,24 @@ img{
   height: 472px;
 }
 
+.gridproj{
+  display:grid
+  grid: template columns 200px 200px 200px;
+}
 
-
-li{
+.listee{
   display: inline-block;
   color: #000000;
   font-family: Arial,Helvetica,sans serif;
   font-size: 13px;
   margin-top: 10px;
   width: 200px;
+  padding-left: 20px;
+  border: black;
+}
+
+.guide{
+  display: inline-flexbox;
+  padding-left: 20px;
+
 }
