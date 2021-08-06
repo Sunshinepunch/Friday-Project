@@ -6,6 +6,10 @@
   
 }
 
+body{
+  background-color: blanchedalmond;
+}
+
 img{
   width: 300px;
   height: 472px;
@@ -16,15 +20,18 @@ img{
   grid: template columns 200px 200px 200px;
 }
 
+.keeptogether{
+  white-space: nowrap;
+}
+
 .listee{
-  display: inline-block;
+  display: block;
   color: #000000;
   font-family: Arial,Helvetica,sans serif;
   font-size: 13px;
   margin-top: 10px;
   width: 200px;
   padding-left: 20px;
-  border: black;
 }
 
 .guide{
