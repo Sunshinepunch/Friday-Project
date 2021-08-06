@@ -33,15 +33,21 @@
 .flex-container{
   display:flex;
   flex-direction: row;
+  font-size: 18px;
 }
 
 .flex-left{
   width:75%;
-  height:100vh;
+  height:15vh;
 }
 
 .flex-right{
   width:25%;
+}
+
+.flex-mid{
+  display:inline-block;
+  width: 50%
 }
 
 body{
@@ -52,6 +58,11 @@ img{
   width: 300px;
   height: 472px;
 }
+.shrink{
+  height:50px;
+  width: 50px;
+}
+
 
 blockquote{
   font-family:cursive;
