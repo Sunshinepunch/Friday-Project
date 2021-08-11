@@ -15,6 +15,7 @@
 ## Description
 * _{This project features an HTML page that gives a little bit of 
 info about me as a person, as well as linking to several different projects completed during my first week at Epicodus! It features the use of a number of different box-model tools, some cool grid layouts, and a few tags to familiarize myself with the languages used}_
+Link to page : https://sunshinepunch.github.io/Friday-Project/
 
 ## Setup/Installation Requirements
 * A browser capable of operating in the last 10 years
